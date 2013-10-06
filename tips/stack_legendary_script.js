@@ -1,0 +1,1 @@
+ $('.highcharts-tracker rect').filter(function(){ return parseInt($(this).attr('height'),10) >= 114}).length;
